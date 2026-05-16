@@ -1,3 +1,4 @@
+<meta name="google-site-verification" content="BC6ls25WI7qPbaCz3pI7VwE7QW7N7m4V6Y8-z7f3E0E" />
 # 🌐 Global Report: 길에서 만나다 (raon_dada)
 네이버 블로그 [길에서 만나다]의 주요 포스팅을 구글 검색 최적화(SEO) 버전으로 요약하여 제공하는 대시보드입니다.
 
